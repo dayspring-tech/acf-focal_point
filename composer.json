@@ -1,0 +1,17 @@
+{
+    "name": "dayspring-tech/acf-focal_point",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/dayspring-tech/acf-focal_point",
+    "authors": [
+      {
+        "name": "ACF Focal Point Field",
+        "homepage": "https://github.com/jhealey5/acf-focal_point"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "wpackagist-plugin/advanced-custom-fields": ">=4"
+    }
+  }
+  
